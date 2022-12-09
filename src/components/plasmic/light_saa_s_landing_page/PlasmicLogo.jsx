@@ -70,7 +70,7 @@ function PlasmicLogo__RenderFunc(props) {
         sty.root,
         { [sty.root_50Opaque]: hasVariant($state, "_50Opaque", "_50Opaque") }
       )}
-      href={`/`}
+      href={`/hello`}
     >
       <p.PlasmicImg
         data-plasmic-name={"img"}
